@@ -1,0 +1,1 @@
+dataset esta en archive, folders de entrenamiento son pos y neg
